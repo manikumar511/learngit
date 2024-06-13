@@ -4,5 +4,6 @@ public class UpdateAccountTest{
     firstname = 'John';
     lastname = 'Doe';
     'x-api-key' => 'test123-345-tryui';
+    fullname = firstname + lastname;
   }
 }
