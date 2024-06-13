@@ -3,7 +3,7 @@ public class UpdateAccountTest{
   public static void accUpdate(){
     firstname = 'John';
     lastname = 'Doe';
-    'x-api-key' => 'test123-345-tryui';
     fullname = firstname + lastname;
+    city= 'Dublin';
   }
 }
